@@ -1,1 +1,2 @@
-# IP-e20190519.github.io
+# FurnitureLMshope
+Learn how to create a fully responsive and SEO-friendly furniture shop website using HTML and CSS with our step-by-step guide.
